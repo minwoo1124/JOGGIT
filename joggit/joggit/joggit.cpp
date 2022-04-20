@@ -50,8 +50,10 @@ int main()
     }
     
  cout << "git 너무 어려워욥";
-    std::cout << "Hello Collaboration!\n";
-    std::cout << "minwoo hi\n";
+
+ cout << "git senanim branch 가 쓴 구문이예욥";
+
+
 
 }
 
