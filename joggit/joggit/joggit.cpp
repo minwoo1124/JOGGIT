@@ -6,6 +6,6 @@ using namespace std;
 
 int main()
 {
-   cout << "Hello Collaboration!\n";
+ cout << "git 너무 어려워욥";
 }
 
