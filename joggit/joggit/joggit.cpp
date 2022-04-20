@@ -6,6 +6,6 @@ using namespace std;
 
 int main()
 {
- cout << "git 너무 어려워욥";
+ cout << "git 너무 어려워";
 }
 
