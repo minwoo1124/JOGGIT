@@ -21,7 +21,7 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{d18714c8-a8cf-47b5-a11c-c785ac98cc30}</ProjectGuid>
+    <ProjectGuid>{320bafaf-3b8a-4c57-b947-ffdb5b56156f}</ProjectGuid>
     <RootNamespace>joggit</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
